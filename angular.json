@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PrimerApp"
+    }
+  },
+  "defaultProject": "PrimerApp",
+  "cli": {
+    "analytics": "7c8b0a78-0d97-4c3d-9410-78bc30df9d2e"
+  }
 }
